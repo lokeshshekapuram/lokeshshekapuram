@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech – Computer Science & Engineering** (CGPA: 8.8)
+- 🎓 **B.Tech – Computer Science & Engineering** 
 - 💻 **.NET Full Stack Developer (ASP.NET Core + Angular)**  
 - 🧠 Strong foundation in **Backend Development & System Design**
 - 🤖 Experience in **Machine Learning, Deep Learning & NLP**
