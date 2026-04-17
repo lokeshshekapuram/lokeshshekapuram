@@ -101,15 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=lokeshshekapuram&theme=tokyonight" />
 </p>
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: shekapuram.lokeshchandra@gmail.com  
-- 💼 LinkedIn: *(add your link here)*  
-- 🌐 Portfolio: *(optional)*  
-
----
+----
 
 ⭐ **Thanks for visiting my profile!**
 ``
